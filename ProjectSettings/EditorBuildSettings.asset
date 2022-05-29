@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: c67e606135a75c44b92388df5fa1d702
+  - enabled: 1
+    path: Assets/Scenes/MakeRoomScene.unity
+    guid: 8302bf435ab0ae543afa567751cfc1d9
+  - enabled: 1
+    path: Assets/Scenes/molegame.unity
+    guid: 708285f066a8b0b4c9fbd0d840d3547b
+  - enabled: 1
+    path: Assets/Scenes/SearchRoomScene.unity
+    guid: 3b4d24b27b2a19742b66fbacc7a085e4
+  m_configObjects: {}
